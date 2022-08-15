@@ -1,0 +1,48 @@
+
+.position{
+    position: relative;
+    width: 100  %;
+    border: 5px solid deepskyblue;
+}
+
+
+.position img{
+    width: 100%;
+}
+
+.center{
+    position: absolute;
+    text-align: center;
+    width: 40%;
+    top: 61%;
+    left: 27%;
+}
+
+
+.center img{
+    border: 10px solid white;
+    border-radius: 100%;
+    width: 100%;
+   
+}
+
+
+p{
+    font-style: italic;
+}
+
+
+a{
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 8px;
+}
+
+
+marquee {
+    color: orangered;
+    font-style: italic;
+    font-size: 26px;
+
+}
